@@ -2,8 +2,9 @@
 
 ## bio
 
-| 氏名   | 加藤　義晴                     |
+| key    | value                          |
 | ------ | ------------------------------ |
+| 氏名   | 加藤　義晴                     |
 | GitHub | https://github.com/emgniddikur |
 | Qiita  | https://qiita.com/emgniddikur  |
 
@@ -17,8 +18,17 @@
 | 2021/01 | 2021/07 | 株式会社 MedUp（業務委託）           | 医療機関の営業支援・顧客管理ツールの開発(Next.js)                                                                                   |
 | 2021/07 | ~       | FRAIM 株式会社（業務委託）           | 契約書に特化したオンラインエディタの開発(React.js/GraphQL/Rust)、ドキュメント作成ツールの開発(Next.js/GraphQL/Rust/WebAssembly)     |
 
+## skill(2022/10)
+
+| key        | value  |
+| ---------- | ------ |
+| TypeScript | 3 年半 |
+| React.js   | 3 年   |
+| Next.js    | 2 年半 |
+| Rust       | 半年   |
+
 ## works
 
-https://github.com/emgniddikur/react-sandbox
+[https://github.com/emgniddikur/react-sandbox](https://github.com/emgniddikur/react-sandbox)
 
-https://github.com/emgniddikur/axum_examples
+[https://github.com/emgniddikur/axum_examples](https://github.com/emgniddikur/axum_examples)
